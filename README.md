@@ -2,7 +2,6 @@
 
 *yarn add cry-a-lot*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sen9kuni&label=Profile%20views&color=0e75b6&style=flat" alt="sen9kuni" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
