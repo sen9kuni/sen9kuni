@@ -1,6 +1,6 @@
 ### Hi there 😴
 
-*yarn add cry-a-lot*
+*yarn add -D cry-a-lot*
 
 
 <h3 align="left">Connect with me:</h3>
