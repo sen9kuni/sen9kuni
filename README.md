@@ -9,7 +9,7 @@
 </p> -->
 
 # 💫 About Me:
-👯 I’m looking to work<br>🌱 I’m currently learning typescript
+👯 I’m open for freelance<br>🌱 I’m currently learning typescript
 
 
 ## 🌐 Socials:
