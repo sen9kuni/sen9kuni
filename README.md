@@ -14,4 +14,4 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayogo-santoso/) <br>  [![LinkedIn](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayogo-santoso/) <br>  [![LinkedIn](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)](https://www.codewars.com/users/sen9kuni)
