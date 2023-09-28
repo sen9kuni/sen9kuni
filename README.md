@@ -10,7 +10,7 @@
 </p> -->
 
 # 💫 About Me:
-👯 I’m open for freelance sen9kuni#6012 <br>🌱 I’m currently learning typescript <br> https://www.codewars.com/users/sen9kuni/badges/micro?theme=light
+👯 I’m open for freelance sen9kuni#6012 <br>🌱 I’m currently learning typescript <br>  [![LinkedIn](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)
 
 
 ## 🌐 Socials:
