@@ -1,6 +1,7 @@
 ### Hi there 😴
 
 *yarn add -D cry-a-lot*
+
 <!-- 
 
 <h3 align="left">Connect with me:</h3>
@@ -9,8 +10,8 @@
 </p> -->
 
 # 💫 About Me:
-👯 I’m open for freelance sen9kuni#6012 <br>🌱 I’m currently learning typescript
+👯 I’m open for freelance sen9kuni#6012 <br>🌱 I’m currently learning typescript <br> https://www.codewars.com/users/sen9kuni/badges/micro?theme=light
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayogo-santoso/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayogo-santoso/)
