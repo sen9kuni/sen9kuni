@@ -10,8 +10,8 @@
 </p> -->
 
 # 💫 About Me:
-👯 I’m open for freelance sen9kuni#6012 <br>🌱 I’m currently learning typescript <br>  [![LinkedIn](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)
+👯 I’m open for freelance sen9kuni#6012 <br>🌱 I’m currently learning typescript 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayogo-santoso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayogo-santoso/) <br>  [![LinkedIn](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)](https://www.codewars.com/users/sen9kuni/badges/micro?theme=light)
