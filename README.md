@@ -10,7 +10,7 @@
 </p> -->
 
 # 💫 About Me:
-👯 I’m open for freelance(discord sen9kuni) <br>🌱 I’m currently learning typescript 
+👯 I’m open for freelance(discord sen9kuni) 
 
 
 ## 🌐 Socials:
